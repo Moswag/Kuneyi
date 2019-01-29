@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+	package
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:18:5-38
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:1-27:12
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:20:5-25:19
+	android:supportsRtl
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml:21:9-35
+uses-sdk
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		ADDED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml
+		INJECTED from /cytex/AndroidStudioProjects/Kuny/views/src/main/AndroidManifest.xml

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_category"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="Category" />
+    <item
+        android:id="@+id/nav_random"
+        android:icon="@drawable/ic_shuffle_black_24dp"
+        android:title="Random" />
+    <item
+        android:id="@+id/nav_location"
+        android:icon="@drawable/location_searching"
+        android:title="By Location" />
+    <item
+        android:id="@+id/nav_adverts"
+        android:icon="@drawable/adverts"
+        android:title="Adverts" />
+</group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/chat"
+                android:icon="@drawable/ic_chat_bubble_black_24dp"
+                android:title="Chat" />
+            <item
+                android:id="@+id/nav_about_app"
+                android:icon="@drawable/ic_perm_device_information_black_24dp"
+                android:title="About App" />
+
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@drawable/about"
+                android:title="About Developer" />
+        </menu>
+    </item>
+
+
+</menu>

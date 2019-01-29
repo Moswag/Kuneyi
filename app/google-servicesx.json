@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "255248005581",
+    "firebase_url": "https://kuneyi-d2e04.firebaseio.com",
+    "project_id": "kuneyi-d2e04",
+    "storage_bucket": "kuneyi-d2e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255248005581:android:c25e675bd8deb271",
+        "android_client_info": {
+          "package_name": "com.android.cytex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255248005581-sdb6vhec1g6tcttq168e85f7e465fn62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6lif-4S5_YBS6fmPcAsnaNaxWfr4atA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
